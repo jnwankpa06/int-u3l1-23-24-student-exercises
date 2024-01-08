@@ -1,5 +1,7 @@
 // 1. Create a variable named `place` and set the value to a string that says whatever place you want.
 
+
+
 // 2. Create a variable named `creatureName` and set the value to a string that says whatever name you want to give the creature.
 
 // 3. Create a variable named `color` and set the value to a string that says whatever color you want.
